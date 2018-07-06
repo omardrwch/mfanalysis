@@ -19,7 +19,7 @@ Installation
 
 .. code:: shell
 
-    git clone https://gitlab.inria.fr/odarwich/mfanalysis.git
+    git clone https://github.com/omardrwch/mfanalysis.git
     cd mfanalysis
     python setup.py install
 
